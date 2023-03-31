@@ -26,7 +26,7 @@ For example, if there is a 0.1% daily interest rate, and we loan money on day 0,
 | 3   |          |        100.00 |         0.30 |      100.30 |
 | 3   | Pay 0.15 |        100.00 |         0.15 |      100.15 |
 | 4   |          |        100.00 |         0.25 |      100.25 |
-| 3   | Pay 1.00 |         99.75 |         0.00 |       99.75 |
+| 3   | Pay 1.00 |         99.25 |         0.00 |       99.25 |
 
 
 Your code should read in a CSV of a specific format, and calculate the daily balances based on the day after the last date in the CSV.
