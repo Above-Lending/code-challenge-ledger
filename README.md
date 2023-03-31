@@ -1,6 +1,16 @@
 # code-challenge-ledger
-Sample Ledger exercise.
 
+We'd like you to demonstrate your code-writing capability with a short exercise.
+
+As we expect of all engineers, if you have any questions, please don't hesitate to ask. We've kept the question straightforward enough where this should not take too long, but in the worst case, make a decision and let us know what that decision was.
+
+Email us or link us to your solution, which should consider the following:
+
+- It does not include any personally identifiable information - we'd like to evaluate this blindly!
+- It includes a README walking through your approach and any decisions made.
+- It is done on your own schedule, in a single digit number of hours.
+- The code is representative of a quality you would have in a real project, including tests.
+- There is no need for saving results to a file, display on any web page, or anything else - command-line-only output is appropriate.
 
 # Problem Statement
 
@@ -67,4 +77,10 @@ Expected output:
 2023-03-12,1,4857.24,1.32,4858.56
 2023-03-12,2,5835.34,0.95,5836.29
 ```
+
+A larger and more complex example is included in the repository.
+
+# Evaluation Criteria
+
+
 
