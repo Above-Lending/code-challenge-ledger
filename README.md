@@ -80,5 +80,6 @@ A larger and more complex example is included in the repository.
 
 # Evaluation Criteria
 
+Above isn't doing the most cutting-edge engineering - instead, we're focusing on the most reliable, well-understood, and highly-trusted software.
 
-
+We definitely don't want you spending too much time on this code snippet, but we would like it to reflect how you think about solving problems on a small scale. Document the design decisions you made, or other on-the-ground choices you made as you implemented the solution. Your code should be consistent in its style, both in readability and design choices. Ensure your code has appropriate test coverage, testing a couple common use cases. Break things apart to be readable, but there isn't a need for an over-abstraction.
